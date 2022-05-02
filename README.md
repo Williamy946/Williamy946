@@ -1,6 +1,6 @@
 [![Williamy946's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamy946&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🎓 School: [USTC](https://ustc.edu.cn/) 
+- 🎓 School: [USTC](https://ustc.edu.cn/) (Currently pursuing Master's Degree)
 - 🔭 Reasearch Interest: Graph Neural Networks, Recommendation System
 
 - 👋 Hi, I’m @Williamy946
