@@ -1,7 +1,7 @@
 [![Williamy946's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamy946&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🎓 School: [USTC](https://ustc.edu.cn/) (Currently pursuing Master's Degree)
-- 🔭 Reasearch Interest: Graph Neural Networks, Recommendation System
+- 🎓 School: [HKUST(GZ)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn) (Currently pursuing PhD's Degree)
+- 🔭 Reasearch Interest: LLM-Agents, Audio-driven human motion synthesis, Information Retrieval, Representational Learning
 
 - 👋 Hi, I’m @Williamy946
 
